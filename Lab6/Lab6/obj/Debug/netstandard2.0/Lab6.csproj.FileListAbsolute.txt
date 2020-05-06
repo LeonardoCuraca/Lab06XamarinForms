@@ -1,0 +1,16 @@
+C:\Users\Leonardo\source\repos\Lab6\Lab6\Lab6\bin\Debug\netstandard2.0\Lab6.deps.json
+C:\Users\Leonardo\source\repos\Lab6\Lab6\Lab6\bin\Debug\netstandard2.0\Lab6.dll
+C:\Users\Leonardo\source\repos\Lab6\Lab6\Lab6\bin\Debug\netstandard2.0\ref\Lab6.dll
+C:\Users\Leonardo\source\repos\Lab6\Lab6\Lab6\bin\Debug\netstandard2.0\Lab6.pdb
+C:\Users\Leonardo\source\repos\Lab6\Lab6\Lab6\obj\Debug\netstandard2.0\Lab6.csprojAssemblyReference.cache
+C:\Users\Leonardo\source\repos\Lab6\Lab6\Lab6\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Leonardo\source\repos\Lab6\Lab6\Lab6\obj\Debug\netstandard2.0\ListViewCode.xaml.g.cs
+C:\Users\Leonardo\source\repos\Lab6\Lab6\Lab6\obj\Debug\netstandard2.0\ListViewDemo.xaml.g.cs
+C:\Users\Leonardo\source\repos\Lab6\Lab6\Lab6\obj\Debug\netstandard2.0\ListViewSource.xaml.g.cs
+C:\Users\Leonardo\source\repos\Lab6\Lab6\Lab6\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Leonardo\source\repos\Lab6\Lab6\Lab6\obj\Debug\netstandard2.0\Lab6.AssemblyInfoInputs.cache
+C:\Users\Leonardo\source\repos\Lab6\Lab6\Lab6\obj\Debug\netstandard2.0\Lab6.AssemblyInfo.cs
+C:\Users\Leonardo\source\repos\Lab6\Lab6\Lab6\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Leonardo\source\repos\Lab6\Lab6\Lab6\obj\Debug\netstandard2.0\Lab6.dll
+C:\Users\Leonardo\source\repos\Lab6\Lab6\Lab6\obj\Debug\netstandard2.0\ref\Lab6.dll
+C:\Users\Leonardo\source\repos\Lab6\Lab6\Lab6\obj\Debug\netstandard2.0\Lab6.pdb
